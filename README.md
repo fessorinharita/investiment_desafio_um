@@ -7,8 +7,8 @@ Projeto de desafio: Ferramenta de Controle de Investimentos com Excel.
 
   Pensando por esse caminho, as tabelas e orientações da página foram posicionadas desta forma, visando, ao final do atendimento, o cliente poder levar impresso ou de modo portable document a análise solicitada por ele.
 
-  As fórmulas, renomeações de células aplicadas em campos distintos, compõem o conjunto de funções para deixar a planilha automatizada, facilitando seu manuseio. Para os valores não saírem negativos, colocamos a fórmula ABS concatenada com a função. 
+  Renomeações de células, chave compostas, aplicou-se em campos distintos e compõem o conjunto de ferramenta auxiliando as funções para deixar a planilha automatizada, facilitando seu manuseio. Para os valores não saírem negativos, colocamos a fórmula ABS concatenada com a função. 
 
-  Na tabela Período estimado, na coluna G, foi aplicada uma formatação de rótulos para que a célula continuasse como número para ser utilizada nas fórmulas, mas que graficamente a palavra anos, para que complementasse o número, dando contexto à informação solicitada. 
+  Na tabela Período estimado, na coluna G, foi aplicada uma formatação de rótulos para que a célula continuasse como número para ser utilizado nas fórmulas, mas que graficamente a palavra anos, para que complementasse o número, dando contexto à informação solicitada. 
 
   No geral, a atividade foi desenvolvida de forma objetiva. 
